@@ -39,7 +39,6 @@ Now, let's have a look at whether this dataset has any null values or not:
 print(data.isnull().sum())
 
 ```
-![null](https://user-images.githubusercontent.com/85225054/232678804-df543314-f3eb-4166-98ec-ac4295f58313.png)
 
 So this dataset does not have any null values. Before moving forward, now, let's have a look at the type of transaction mentioned in the dataset:
 
@@ -127,12 +126,12 @@ Reference: The foundational concepts and initial code structure for this project
 
 ## About the Maintainer
 
-This project is currently maintained by Akshita Mary John.
+This project is currently maintained by Sai Srikar Vechalapu
 
-**Akshita Mary John** is a Product Owner with 3+ years of experience leading product strategy, defining roadmaps, and translating customer and business needs into actionable features. She is skilled at backlog prioritization, collaborating with cross-functional teams, and driving product development from concept to release. Certified Scrum Product Owner skilled in Agile ceremonies, requirements gathering, and end-to-end product lifecycle management.
+**Sai Srikar Vechalapu** is a Product Owner with 3+ years of experience leading product strategy, defining roadmaps, and translating customer and business needs into actionable features. He is skilled at backlog prioritization, collaborating with cross-functional teams, and driving product development from concept to release. Certified Scrum Product Owner skilled in Agile ceremonies, requirements gathering, and end-to-end product lifecycle management.
 
 **Key Skills:** Pandas, NumPy, Matplotlib
 
 **Contact:**
-*   **Email:** a.john1009@gmail.com
-*   **LinkedIn:** https://www.linkedin.com/in/akshita-mary-john-35542a12a/
+*   **Email:** vsrikar2025@gmail.com
+*   **LinkedIn:** https://www.linkedin.com/in/srikarvechalapu/
